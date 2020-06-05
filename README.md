@@ -1,8 +1,5 @@
 # Laravel Theme
-## Documentation inspired theme
-![laravel](https://raw.githubusercontent.com/victorze/vscode-theme-laravel/master/images/laravel_.png)
 
-# Extra
 ## JetBrains Clasic
 ![jetbrains_clasic](https://raw.githubusercontent.com/assmdx/vscode-theme-laravel/master/images/laravel_clasic.png)
 
